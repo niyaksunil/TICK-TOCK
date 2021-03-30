@@ -64,5 +64,4 @@ function clock(){
   line(0, 0, canvasSize/3, 0);
   pop();
 
-  
 }
